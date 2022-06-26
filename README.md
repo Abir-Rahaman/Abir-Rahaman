@@ -1,6 +1,5 @@
 
 
-<h1 align="center">Hi 👋, I'm Md. Abir Rahaman</h1>
 <p align="center"> <img src="https://media-exp2.licdn.com/dms/image/C4D16AQElMCzK6PEHgQ/profile-displaybackgroundimage-shrink_200_800/0/1654618576224?e=1661990400&v=beta&t=kEpdLxG4Zsvis1BSPOMAIGxz_M-UDXPcs2Hyh81Ityw" alt="abir-rahaman" /> </p>
 <p align="center">Expertise in front-end technologies, including Html5, CSS3, JavaScript(Intermidiate),Typescript and libraries such as React Js, Bootstrap5, Tailwind, DaisyUI . Knowledge of server-side programming languages including MongoDB, Node Js, Express Js.I'm ly interested in developing responsive full-stack web applications. Please see my resume for further information.</p>
 
