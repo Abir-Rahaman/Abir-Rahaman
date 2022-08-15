@@ -4,7 +4,7 @@
 <p align="center">Expertise in front-end technologies, including Html5, CSS3, JavaScript(Intermidiate),Typescript and libraries such as React Js, Bootstrap5, Tailwind, DaisyUI . Knowledge of server-side programming languages including MongoDB, Node Js, Express Js.I'm ly interested in developing responsive full-stack web applications. Please see my resume for further information.</p>
 
 
- - 📄 Know about my experiences [On Resume](https://drive.google.com/file/d/1QtXnY0z3Hc47-KqmPVuD7QvhnYB7JEPb/view?usp=sharing)
+ - 📄 Know about my experiences [On Resume](https://drive.google.com/drive/u/0/folders/1QtsRZjKtWpWO76Xt85EeIABsI02RPit7)
 
 
 - 🔭 I’m currently working on **Web Development**
