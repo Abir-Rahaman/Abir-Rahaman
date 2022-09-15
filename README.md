@@ -1,5 +1,5 @@
 
-![](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/298205995_3230866950459941_4438324603666746591_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFTjXJGT891UGKPaQh-bmTqsrXNwjr-sHyytc3COv6wfFzrqsVAbe3ehO0ou74r3mdNrtCFxGY2NZu4L_cpsJ_e&_nc_ohc=ax3v5Z0mftkAX_pvttf&tn=TlZObhcVzeoAVq7g&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_nd6-EE_5ZosDzk_mJvzGNUdjQiIB15DSRigNjR7ePXA&oe=63247EF4)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQElMCzK6PEHgQ/profile-displaybackgroundimage-shrink_350_1400/0/1654618576224?e=1668643200&v=beta&t=4Fmi0-0-eSurfZhmVDm0EE8mDCXUsWPHBZKrFIjwpFA)
 
 <p align="center">Expertise in front-end technologies, including Html5, CSS3, JavaScript(Intermidiate),Typescript and libraries such as React Js, Bootstrap5, Tailwind, DaisyUI . Knowledge of server-side programming languages including MongoDB, Node Js, Express Js.I'm ly interested in developing responsive full-stack web applications. Please see my resume for further information.</p>
 
